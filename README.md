@@ -476,7 +476,7 @@ def agent_loop(llm, tools, user_goal, max_steps=10):
     return "MAX_STEPS_REACHED"
 ```
 
-更具体的 Claude / OpenAI SDK 实现见 `examples/snippets.md`。
+更具体的 Claude / OpenAI SDK 实现见 `examples/代码片段.md`。
 
 ---
 
