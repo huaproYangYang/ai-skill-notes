@@ -37,6 +37,7 @@
 - [8. 局限与风险](#8-局限与风险)
 - [9. 未来趋势](#9-未来趋势)
 - [深入专题：LangChain 与 LangGraph 原理](docs/06-langchain-langgraph.md)
+- [深入专题：RAG 与 Agent 串联 Demo](docs/07-rag.md)
 - [10. 参考资源](#10-参考资源)
 - [附录 A：最小 Agent 示例代码](#附录-a最小-agent-示例代码)
 - [附录 B：术语表](#附录-b术语表)
