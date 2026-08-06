@@ -307,6 +307,8 @@ Thought → Action → Observation → Thought → ... → Final Answer
 
 ---
 
+> 想要深入工程实现？阅读 [深入专题：LangChain 与 LangGraph 原理](docs/06-langchain-langgraph.md) — 覆盖 Runnable 协议、LCEL、StateGraph、检查点 / Interrupt / 多 Agent 编排。
+
 ## 5. 提示工程 (Prompt Engineering)
 
 ### 5.1 基础技巧
