@@ -309,6 +309,8 @@ Thought → Action → Observation → Thought → ... → Final Answer
 ---
 
 > 想要深入工程实现？阅读 [深入专题：LangChain 与 LangGraph 原理](docs/06-langchain-langgraph.md) — 覆盖 Runnable 协议、LCEL、StateGraph、检查点 / Interrupt / 多 Agent 编排。
+>
+> 想要把外部知识接到 LLM？阅读 [深入专题：RAG 与 Agent 串联 Demo](docs/07-rag.md) — 含 **RAG + SQLite + LangGraph Agent** 可运行 Demo（文档检索、Text-to-SQL、计算器三 Tools）。
 
 ## 5. 提示工程 (Prompt Engineering)
 
